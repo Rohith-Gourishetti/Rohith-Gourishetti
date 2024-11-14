@@ -1,4 +1,4 @@
-# Rohith's Profile Resume
+# Rohith's Profile
 
 Welcome to my GitHub repository! This repository showcases my professional profile, including my skills, education, certifications, and projects. The goal of this repository is to provide an overview of my qualifications and achievements, making it easier for potential employers or collaborators to understand my expertise and contributions.
 
